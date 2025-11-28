@@ -1,5 +1,6 @@
-<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/10f3ca4d-8888-4303-9a49-de7067135f0a" />Project Overview 🔍
-<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/14ebf399-d68d-4f1d-a7b1-6cadf29c6a62" />
+<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/10f3ca4d-8888-4303-9a49-de7067135f0a" /> 
+
+Project Overview 🔍
 
 This project explores a Restaurant Management dataset using SQL. It focuses on menu insights, order behavior and revenue patterns. The analysis is built around real business questions and covers filtering, aggregation, joins and category-level trends.
 
@@ -7,9 +8,9 @@ Database Structure 🍴
 
 Tables Used:
 
-menu_items – item names, categories and prices
+1.menu_items – item names, categories and prices
 
-order_details – order history and purchased items
+2.order_details – order history and purchased items
 
 Key Objectives 🎯
 1. Menu Exploration 🍕
