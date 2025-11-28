@@ -1,0 +1,28 @@
+These are my Scenario Question 
+First try solve it,Try Yourself 
+ALL THE BEST
+
+
+Objective 1 – Menu Items Analysis 
+1. View all records from the menu_items table. 
+2. Find the total number of items on the menu. 
+3.Identify the least and most expensive items on the menu.
+4. Count how many Italian dishes are available. 
+5. Find the least and most expensive Italian dishes.
+6. Count how many dishes are available in each category.
+7. Calculate the average price of dishes within each category.
+
+Objective 2 – Order Details Analysis
+1. View all records from the order_details table.
+2. Determine the date range of customer orders.
+3. Find how many unique orders were placed within the date range.  
+4. Count the total number of items ordered. 
+5. Identify which orders had the highest number of items.
+6. Count how many orders contained more than 12 items.
+
+Objective 3 – Combined Insights (Menu + Orders) 
+1. Join menu_items and order_details to create a combined dataset. 
+2. Identify the least and most ordered items and their categories.
+3. Determine the top 5 orders that spent the most money. 
+4. View the category breakdown of items purchased in the highest-spend order. 
+5. View category-wise breakdown for the top 5 highest-spend orders.
