@@ -6,7 +6,7 @@ This project explores a Restaurant Management dataset using SQL. It focuses on m
 
 Database Structure 🍴
 
-Tables Used:
+Tables Used: 
 
 1.menu_items – item names, categories and prices
 
