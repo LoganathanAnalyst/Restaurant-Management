@@ -4,7 +4,7 @@ Project Overview 🔍
 
 This project explores a Restaurant Management dataset using SQL. It focuses on menu insights, order behavior and revenue patterns. The analysis is built around real business questions and covers filtering, aggregation, joins and category-level trends. 
 
-Database Structure 🍴
+Database Structure 🍴 
 
 Tables Used: 
 
